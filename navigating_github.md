@@ -10,4 +10,6 @@ Here is the URL to my participation repo:
 
 https://github.com/daviddhk/STAT545-participation
 
-Here is its corresponding account
+Here is its corresponding account:
+
+https://github.com/daviddhk
